@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
         discord: Invisibilities#8579
         spigot: spigotmc.org/members/iuserod.1301142
-- 😄 Pronouns: He|Him
+- 😄 Pronouns: He | Him
 
 - Languages i know how to use:
 
