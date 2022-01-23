@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=fff"> (6 Years)
 
 
-![GitHub stats] (https://github-readme-stats.vercel.app/api?username=iInvisibilities&theme=dark&show_icons=true)
+![Github stats] (https://github-readme-stats.vercel.app/api?username=iInvisibilities&theme=dark&show_icons=true)
