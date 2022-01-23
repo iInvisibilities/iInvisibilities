@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Invisibilities(UseRod) 👋
 
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: 
