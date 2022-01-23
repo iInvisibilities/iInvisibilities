@@ -6,7 +6,7 @@
         spigot: spigotmc.org/members/iuserod.1301142
 - 😄 Pronouns: He | Him
 
-- Languages i know how to use:
+- Languages i learned (no one can be perfect at any of anything even if you spend your whole life trying to "perfect" it):
 
 
 <img src="https://img.shields.io/badge/-JAVA-007396?logo=java&logoColor=fff"> (5 Years) <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=fff"> (3 Years) <img src="https://img.shields.io/badge/-KOTLIN-7F52FF?logo=kotlin&logoColor=fff"> (1 Year)
