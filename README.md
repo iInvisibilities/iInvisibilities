@@ -1,10 +1,8 @@
 ### Hi there, my name is Invisibilities(UseRod) 👋
 
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: 
+- 📫 Reach out to me? 
         discord: Invisibilities#8579
         spigot: spigotmc.org/members/iuserod.1301142
-- 😄 Pronouns: He | Him
 
 - Languages i learned (no one can be perfect at any of anything even if you spend your whole life trying to "perfect" it)
 
