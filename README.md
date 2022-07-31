@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **open source projects**
 
-- 👨‍💻 All of my projects are available at [this](this)
+- 👨‍💻 All of my projects are available at here(github)
 
 - Portfolio **https://Invisibilities.tech**
 
